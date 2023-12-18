@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @asfiasidd
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+           A passionate frontend developer from Pakistan
 
-<!---
-asfiasidd/asfiasidd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @asfiasidd
+- 🔭 I’m currently working on Bano Qabil
+- 🌱 I’m currently learning Mern Stack
+- 💬 Ask me about HTML CSS JAVASCRIPT
+- 📫 How to reach me asfiasiddique0@gmail.com
+  
+   Connect with me:
+       asfiasidd
